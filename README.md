@@ -15,10 +15,8 @@
       alt="GitHub Stats" 
       height="173" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksenn0&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/></p>
+  <br>
 </div>
-
-<br>
-
 <div>
  
 ## Linguagens
