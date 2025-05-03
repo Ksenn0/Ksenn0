@@ -8,7 +8,7 @@
    <img 
      align="left" 
      alt="GitHub Stats" 
-     height="270"  
+     height="250"  
      src="https://github-readme-stats.vercel.app/api?username=Ksenn0&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
  <img 
       align="left" 
