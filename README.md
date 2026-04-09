@@ -24,5 +24,5 @@ Olá! Sou Kauann Senna, apaixonado por construir aplicações completas do zero.
 
 ### 📫 Contato
 - LinkedIn: www.linkedin.com/in/ks537  
-- Upwork: [seu-link]  
+- Upwork: https://www.upwork.com/freelancers/~0174441ee40c9556b2?nav_dir=pop&mp_source=share
 - Email: ksdev.1337@gmail.com
