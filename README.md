@@ -2,6 +2,8 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas | Fullstack com foco em Backend `**
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](www.linkedin.com/in/ks537)
+
 ## Sobre mim
 Olá! Sou Kauann Senna, apaixonado por construir aplicações completas do zero. Tenho experiência prática com Next.js + Supabase e APIs em Python. Meu objetivo é me tornar um desenvolvedor Fullstack com ênfase em Backend (C#, Java Spring Boot, REST/GraphQL, cloud).
 
