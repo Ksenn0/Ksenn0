@@ -5,3 +5,4 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ksenn0&theme=2077) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ksenn0&theme=2077) 
