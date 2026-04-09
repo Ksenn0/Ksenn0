@@ -15,14 +15,14 @@ Olá! Sou Kauann Senna, apaixonado por construir aplicações completas do zero.
 - **[E-commerce Perfumes & Cosméticos](https://github.com/Ksenn0/E-commerce_Roze_Magazine)** – MVP fullstack Next.js + Supabase
 - **[API Gerenciamento MEI](https://github.com/Ksenn0/Gerenciador_estoque_MEI)** – API REST em Python
 
-### 📫 Contato
-- LinkedIn: www.linkedin.com/in/ks537  
-- Upwork: [seu-link]  
-- Email: ksdev.1337@gmail.com
-
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ksenn0&theme=2077) 
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ksenn0&theme=2077) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ksenn0&theme=2077) 
+
+### 📫 Contato
+- LinkedIn: www.linkedin.com/in/ks537  
+- Upwork: [seu-link]  
+- Email: ksdev.1337@gmail.com
