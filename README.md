@@ -1,4 +1,4 @@
-# Kauann Senna 👋
+# Kauann Senna 😎
 
 **`Estudante de Análise e Desenvolvimento de Sistemas | Fullstack com foco em Backend `**
 
