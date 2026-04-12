@@ -2,6 +2,9 @@
 
 **`Estudante de ADS | Fullstack com foco em Backend `**
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_ks537_/)
+
+## Sobre mim
 Olá! Sou Kauann Senna, apaixonado por construir aplicações completas do zero. Tenho experiência prática com Next.js + Supabase e APIs em Python. Meu objetivo é me tornar um desenvolvedor Fullstack com ênfase em Backend (C#, Java Spring Boot, REST/GraphQL, cloud).
 
 ## 🛠️ Stack atual
