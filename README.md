@@ -2,7 +2,6 @@
 
 **`Estudante de ADS | Fullstack com foco em Backend `**
 
-## Sobre mim
 Olá! Sou Kauann Senna, apaixonado por construir aplicações completas do zero. Tenho experiência prática com Next.js + Supabase e APIs em Python. Meu objetivo é me tornar um desenvolvedor Fullstack com ênfase em Backend (C#, Java Spring Boot, REST/GraphQL, cloud).
 
 ## 🛠️ Stack atual
