@@ -17,6 +17,7 @@ Olá! Sou Kauann Senna, apaixonado por construir aplicações completas do zero.
 
 ## 📫 Contato
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0174441ee40c9556b2?nav_dir=pop&mp_source=share)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_ks537_/)
 
 ## Github stats
