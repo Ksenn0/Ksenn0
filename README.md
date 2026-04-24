@@ -1,4 +1,4 @@
-# Kauann Senna 👨🏻‍💻
+# Kauann Senna 👨🏻‍💻 
 
 **`Estudante de ADS | Desenvolvedor Fullstack `**
 
