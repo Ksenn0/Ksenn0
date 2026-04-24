@@ -22,8 +22,8 @@ Olá! Sou Kauann Senna, apaixonado por construir aplicações completas do zero.
 
 ## Github stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ksenn&theme=algolia) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ksenn0&theme=algolia) 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ksenn&theme=algolia) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ksenn&theme=algolia) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ksenn0&theme=algolia) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ksenn0&theme=algolia) 
